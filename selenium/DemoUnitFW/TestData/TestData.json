@@ -1,0 +1,20 @@
+{
+    "FirstName": "To",
+    "LastName": "Chuong",
+    "Email": "cmtckyong@gmail.com",
+    "MobileNumber": "0233546556",
+    "Subject": "m",
+    "CurrentAddress": "aaa",
+    "BtnClose": "Close",
+
+    "BookName": "Git Pocket Guide",
+    "Username": "cmtzz",
+    "Password": "G@con123",
+
+    "SearchBoxDesign": "Design",
+    "SearchBoxdesign": "design",
+    "book1": "Learning JavaScript Design Patterns",
+    "book2": "Designing Evolvable Web APIs with ASP.NET",
+
+    "BookResult": "No rows found"
+}

@@ -1,0 +1,12 @@
+{
+    "Browser": "Chrome",
+    "Url.BasePage": "http://192.168.237.10:3000",
+    "DefaultUserName": "Admin2",
+    "DefaultPassword": "qp$#tGu^",
+    "TestResult.Folder": "TestResult",
+    "TestResult.File": "index.html",
+    "Screenshot.Folder": "Screenshot",
+    "Timeout.Webdriver": 10
+  }
+  
+  

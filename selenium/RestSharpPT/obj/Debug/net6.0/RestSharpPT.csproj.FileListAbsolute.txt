@@ -1,0 +1,10 @@
+c:\Users\ASUS\Desktop\selenium\RestSharpPT\obj\Debug\net6.0\RestSharpPT.csproj.AssemblyReference.cache
+c:\Users\ASUS\Desktop\selenium\RestSharpPT\obj\Debug\net6.0\RestSharpPT.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\ASUS\Desktop\selenium\RestSharpPT\obj\Debug\net6.0\RestSharpPT.AssemblyInfoInputs.cache
+c:\Users\ASUS\Desktop\selenium\RestSharpPT\obj\Debug\net6.0\RestSharpPT.AssemblyInfo.cs
+c:\Users\ASUS\Desktop\selenium\RestSharpPT\obj\Debug\net6.0\RestSharpPT.csproj.CoreCompileInputs.cache
+c:\Users\ASUS\Desktop\rucki\selenium\RestSharpPT\obj\Debug\net6.0\RestSharpPT.csproj.AssemblyReference.cache
+c:\Users\ASUS\Desktop\rucki\selenium\RestSharpPT\obj\Debug\net6.0\RestSharpPT.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\ASUS\Desktop\rucki\selenium\RestSharpPT\obj\Debug\net6.0\RestSharpPT.AssemblyInfoInputs.cache
+c:\Users\ASUS\Desktop\rucki\selenium\RestSharpPT\obj\Debug\net6.0\RestSharpPT.AssemblyInfo.cs
+c:\Users\ASUS\Desktop\rucki\selenium\RestSharpPT\obj\Debug\net6.0\RestSharpPT.csproj.CoreCompileInputs.cache

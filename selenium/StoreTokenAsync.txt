@@ -1,0 +1,14 @@
+public async Task StoreTokenAsync(string accountKey, AccountDto account)
+        {
+            if (DataStorage.GetData(accountKey) is false)
+            {
+                var response = await UserService.GenerateTokenAsync(account.Username, account.Password);
+                response.VerifyStatusCodeOk();
+
+                var result = (dynamic)JsonConvert.DeserializeObject(response.Content);
+                
+                DataStorage.SetData(accountKey, "Bearer " + result["token"]);
+            }
+
+
+        }
